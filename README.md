@@ -10,7 +10,7 @@ A video demonstration of the robot in action can be viewed [here](https://youtu.
 - Precise line detection and following capability.
 - Adjustable speed and sensitivity settings.
 - Modular design for easy customization.
-- [Robotic Systems Block Diagram](Robotic Systems Block Diagram.png).
+![Block Diagram](RoboticSystemsBlockDiagram.png "Robotic Systems Block Diagram for the 3pi 32u4")
 
 ## Hardware Requirements - Polulu 3pi 32u4 
 - Microcontroller 
